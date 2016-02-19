@@ -1,42 +1,4 @@
 {
-    "blocks": [
-        {
-            "end": "2015-05-29T00:00:00.000Z",
-            "start": "2015-05-28T14:00:00.000Z",
-            "subtitle": "Registration Desk",
-            "title": "Badge Pick-Up",
-            "type": "break"
-        }
-    ],
-    "map": [
-        {
-            "markers": {
-                "0": [
-                    {
-                        "id": "presswork",
-                        "lat": 37.782865,
-                        "lng": -122.403759,
-                        "title": "Press\nWorkooms",
-                        "type": "LABEL"
-                    }
-                ]               
-                
-            },
-            "tiles": {
-                "0": {
-                    "filename": "floor2-2015-v1.svg",
-                    "url": ""
-                }
-            }
-        }
-    ],
-    "rooms": [
-        {
-            "id": "3a048036-ebf4-e411-b87f-00155d5066d7",
-            "name": "Design Sandbox (L2)",
-            "original_id": "3a048036-ebf4-e411-b87f-00155d5066d7"
-        }
-    ],
     "sessions": [
         {
             "color": "#3f51b5",
@@ -53,7 +15,7 @@
             "tags": [
                 "FLAG_KEYNOTE"
             ],
-            "title": "Keynote",
+            "title": "Google Play",
             "url": "https://events.google.com/io2015/",
             "youtubeUrl": "wtLJPvx7-ys"
         },
