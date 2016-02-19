@@ -21,7 +21,10 @@
         },
         {
             "captionsUrl": "http://io-captions.appspot.com/?event=e3&android=t",
-            "description": "AWESOME The living room ecosystem and its 1 billion TVs are exploding with new entertainment and new forms of interactivity. With the tremendous growth of Google Cast and Android TV devices, building engaging living room experiences has never been easier or more important. Whether you\u2019re building applications to deliver media, live tv or a multi-screen game, come join us as we discuss how to build a great TV application, get it discovered, and how to engage users in the many hours a day that people spend in front of their TV.",
+            "description": "Google Play services is used to update Google apps and apps from Google Play.
+This component provides core functionality like authentication to your Google services, synchronized contacts, access to all the latest user privacy settings, and higher quality, lower-powered location based services.
+Google Play services also enhances your app experience. It speeds up offline searches, provides more immersive maps, and improves gaming experiences.
+Apps may not work if you uninstall Google Play services.",
             "endTimestamp": "2015-05-29T21:00:00Z",
             "hashtag": "android",
             "id": "11718f8b-b6d4-e411-b87f-00155d5066d8",
@@ -41,7 +44,7 @@
                 "TOPIC_ANDROID",
                 "TOPIC_TV&LIVINGROOM"
             ],
-            "title": "AWESOME Developing for the living room with Google",
+            "title": "Google Services Framework",
             "url": "https://events.google.com/io2015/schedule#/11718f8b-b6d4-e411-b87f-00155d5066d7",
             "youtubeUrl": "5WI_lCmBKE8"
         },
