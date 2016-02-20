@@ -13,7 +13,8 @@
             "speakers": [],
             "startTimestamp": "2015-05-28T16:30:00Z",
             "tags": [
-                "FLAG_KEYNOTE"
+                "FLAG_KEYNOTE",
+                "TOPIC_GOOGLE_ESSENTIAL"
             ],
             "title": "Google Play",
             "url": "https://events.google.com/io2015/",
@@ -29,8 +30,8 @@ Apps may not work if you uninstall Google Play services.",
             "hashtag": "android",
             "id": "11718f8b-b6d4-e411-b87f-00155d5066d8",
             "isFeatured": false,
-            "isLivestream": true,
-            "mainTag": "TOPIC_ANDROID",
+            "isLivestream": false,
+            "mainTag": "TOPIC_GOOGLE_ESSENTIAL",
             "photoUrl": "https://storage.googleapis.com/io2015-data.appspot.com/images/sessions/__w-200-400-600-800-1000__/11718f8b-b6d4-e411-b87f-00155d5066d7.jpg",
             "room": "room3",
             "speakers": [
@@ -39,7 +40,7 @@ Apps may not work if you uninstall Google Play services.",
             ],
             "startTimestamp": "2015-05-29T20:00:00Z",
             "tags": [
-                "TYPE_SESSIONS",
+                "TOPIC_GOOGLE_ESSENTIAL",
                 "THEME_DEVELOP&DESIGN",
                 "TOPIC_ANDROID",
                 "TOPIC_TV&LIVINGROOM"
@@ -173,6 +174,14 @@ Apps may not work if you uninstall Google Play services.",
             "order_in_category": 6,
             "original_id": "8c3ea76e-d3e7-e411-b87f-00155d5066d7",
             "tag": "TOPIC_EARN"
+        }
+        {
+            "abstract": "",
+            "category": "TOPIC",
+            "name": "Google Essential Framework",
+            "order_in_category": 1,
+            "original_id": "8c3ea76e-d3e7-e411-b87f-00155d5066d8",
+            "tag": "TOPIC_GOOGLE_ESSENTIAL"
         }
     ],
     "video_library": [
