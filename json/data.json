@@ -13,8 +13,9 @@
             "speakers": [],
             "startTimestamp": "2015-05-28T16:30:00Z",
             "tags": [
-                "FLAG_KEYNOTE",
-                "TOPIC_GOOGLE_ESSENTIAL"
+                "GOOGLE_FRAMEWORK",
+                "APPS_BY_GOOGLE",
+                "APP_STORES"
             ],
             "title": "Google Play",
             "url": "https://events.google.com/io2015/",
@@ -40,7 +41,8 @@ Apps may not work if you uninstall Google Play services.",
             ],
             "startTimestamp": "2015-05-29T20:00:00Z",
             "tags": [
-                "TOPIC_GOOGLE_ESSENTIAL"
+                "GOOGLE_FRAMEWORK",
+                "APPS_BY_GOOGLE"
             ],
             "title": "Google Services Framework",
             "url": "https://events.google.com/io2015/schedule#/11718f8b-b6d4-e411-b87f-00155d5066d7",
@@ -165,21 +167,99 @@ Apps may not work if you uninstall Google Play services.",
     ],
     "tags": [
         {
-            "abstract": "",
-            "category": "TOPIC",
-            "name": "Earn",
-            "order_in_category": 6,
-            "original_id": "8c3ea76e-d3e7-e411-b87f-00155d5066d7",
-            "tag": "TOPIC_EARN"
+            "category": "FRAMEWORK",
+            "name": "Google Framework",
+            "order_in_category": 0,
+            "original_id": "1",
+            "tag": "GOOGLE_FRAMEWORK"
         },
         {
-            "abstract": "",
-            "category": "TOPIC",
-            "name": "Google Essential Framework",
-            "order_in_category": 0,
-            "original_id": "8c3ea76e-d3e7-e411-b87f-00155d5066d8",
-            "tag": "TOPIC_GOOGLE_ESSENTIAL"
+            "category": "DEVELOPER",
+            "name": "Apps By Google",
+            "order_in_category": 1,
+            "original_id": "2",
+            "tag": "APPS_BY_GOOGLE"
+        },
+        {
+            "category": "APPS",
+            "name": "China Essential",
+            "order_in_category": 2,
+            "original_id": "3",
+            "tag": "CHINA_ESSENTIAL"
+        },
+        {
+            "category": "APPS",
+            "name": "VPN services",
+            "order_in_category": 3,
+            "original_id": "4",
+            "tag": "VPN_SERVICES"
+        },
+        {
+            "category": "APPS",
+            "name": "Social",
+            "order_in_category": 4,
+            "original_id": "5",
+            "tag": "SOCIAL"
+        },
+        {
+            "category": "APPS",
+            "name": "Maps",
+            "order_in_category": 5,
+            "original_id": "6",
+            "tag": "MAPS"
+        },
+        {
+            "category": "APPS",
+            "name": "App stores",
+            "order_in_category": 6,
+            "original_id": "7",
+            "tag": "APP_STORES"
+        },
+        {
+            "category": "APPS",
+            "name": "Media",
+            "order_in_category": 7,
+            "original_id": "8",
+            "tag": "MEDIA"
+        },
+        {
+            "category": "APPS",
+            "name": "Language",
+            "order_in_category": 8,
+            "original_id": "9",
+            "tag": "LANGUAGE"
+        },
+        {
+            "category": "APPS",
+            "name": "Lifestyle",
+            "order_in_category": 9,
+            "original_id": "10",
+            "tag": "LIFESTYLE"
+        },
+        {
+            "category": "DEVELOPER",
+            "name": "Apps By Tencent",
+            "order_in_category": 10,
+            "original_id": "11",
+            "tag": "APPS_BY_TENCENT"
+        },
+        {
+            "category": "DEVELOPER",
+            "name": "Apps By Alibaba",
+            "order_in_category": 11,
+            "original_id": "12",
+            "tag": "APPS_BY_ALIBABA"
+        },
+        {
+            "category": "DEVELOPER",
+            "name": "Apps By Baidu",
+            "order_in_category": 12,
+            "original_id": "13",
+            "tag": "APPS_BY_BAIDU"
         }
+
+
+
     ],
     "video_library": [
         {
@@ -190,33 +270,6 @@ Apps may not work if you uninstall Google Play services.",
             "topic": "Keynote",
             "vid": "wtLJPvx7-ys",
             "year": "2014"
-        },
-        {
-            "desc": "Google I/O 2013 Keynote",
-            "id": "9pmPa_KxsAM",
-            "thumbnailUrl": "http://img.youtube.com/vi/9pmPa_KxsAM/hqdefault.jpg",
-            "title": "Google I/O 2013 Keynote",
-            "topic": "Keynote",
-            "vid": "9pmPa_KxsAM",
-            "year": "2013"
-        },
-        {
-            "desc": "Google I/O 2012 Keynote, day 1",
-            "id": "VuC0i4xTyrI",
-            "thumbnailUrl": "http://img.youtube.com/vi/VuC0i4xTyrI/hqdefault.jpg",
-            "title": "Google I/O 2012 Keynote, day 1",
-            "topic": "Keynote",
-            "vid": "VuC0i4xTyrI",
-            "year": "2012"
-        },
-        {
-            "desc": "Google I/O 2012 Keynote, day 2",
-            "id": "tPtJd6AzU8c",
-            "thumbnailUrl": "http://img.youtube.com/vi/tPtJd6AzU8c/hqdefault.jpg",
-            "title": "Google I/O 2012 Keynote, day 2",
-            "topic": "Keynote",
-            "vid": "tPtJd6AzU8c",
-            "year": "2012"
         }
     ]
 }
