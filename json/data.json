@@ -33,7 +33,7 @@ Apps may not work if you uninstall Google Play services.",
             "id": "11718f8b-b6d4-e411-b87f-00155d5066d8",
             "isFeatured": false,
             "isLivestream": false,
-            "mainTag": "TOPIC_GOOGLE_ESSENTIAL",
+            "mainTag": "GOOGLE_ESSENTIAL",
             "photoUrl": "https://storage.googleapis.com/io2015-data.appspot.com/images/sessions/__w-200-400-600-800-1000__/11718f8b-b6d4-e411-b87f-00155d5066d7.jpg",
             "room": "room3",
             "speakers": [
